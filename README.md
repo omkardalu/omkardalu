@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omkar
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Fronted development
+- 🌱 I’m currently learning Frontend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me omkardalu@gmail.com
 
