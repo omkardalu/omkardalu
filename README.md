@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Omkar B-Tech @VIIT
+- 👋 Hi, I’m Omkar, B-Tech @VIIT
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Backend development
 - 💞️ I’m looking to collaborate on any frontend application
